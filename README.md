@@ -212,5 +212,5 @@ Contact & Collaboration
 This simulator is part of an open research initiative.
 For collaboration, policy pilots, or academic correspondence:
 
-📧 [your email]
+📧 cospira2025@gmail.som
 🌐 GitHub Discussions / Issues welcome
